@@ -963,8 +963,8 @@ input, select, textarea {
 			position: absolute;
 			left: 0;
 			top: 0;
-			width: 10%;
-			height: 10%;
+			width: 0%;
+			height: 0%;
 			background: url("images/overlay.png");
 		}
 
