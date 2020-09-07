@@ -965,7 +965,7 @@ input, select, textarea {
 			top: 0;
 			width: 0%;
 			height: 0%;
-			background: url("images/overlay.png");
+			background: url("images/transparent.png");
 		}
 
 		.image img {
