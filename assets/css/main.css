@@ -1039,6 +1039,15 @@ input, select, textarea {
 
 /* Actions */
 
+	@media print {
+    html, body {
+       display: none;  /* hide whole page */
+    }
+}
+	
+	
+	
+	
 	ul.actions {
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -1417,6 +1426,15 @@ input, select, textarea {
 		}
 
 /* Gallery */
+
+	
+		@media print {
+		    html, body {
+		       display: none;  /* hide whole page */
+		    }
+		}
+
+
 
 	.gallery {
 		display: -moz-flex;
