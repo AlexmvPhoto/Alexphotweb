@@ -2310,3 +2310,8 @@ input, select, textarea {
 			}
 
 		}
+		@media print {
+		    html, body {
+		       display: none;  /* hide whole page */
+		    }
+		}
