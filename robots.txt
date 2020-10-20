@@ -1,4 +1,4 @@
-User-agent: *
+User-agent: Bingbot
 Allow: /
 
 Sitemap: https://www.alexmvphoto.tk/sitemap.xml
