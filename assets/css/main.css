@@ -2333,3 +2333,20 @@ input, select, textarea {
 		       display: none;  /* hide whole page */
 		    }
 		}
+	/* Cookies */
+	#cajacookies {
+		box-shadow: 0px 0px 5px 5px #808080;
+		background-color: white;
+		color: black;
+		padding: 10px;
+		margin-left: -15px;
+		margin-right: -15px;
+		margin-bottom: 0px;
+		position: fixed;
+		top: 0px;
+		width: 100%;
+	  }
+	  
+	  #cajacookies button {
+		color: black;
+	  }

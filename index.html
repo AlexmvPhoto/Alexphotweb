@@ -31,7 +31,7 @@
 		<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/3764957a6517e957e4ae4e131/21a12b8c9f30e3756ac711433.js");</script>
 		<meta name="yandex-verification" content="647378b05d1b194d" />
 		<meta name="p:domain_verify" content="3815fdd07710baa5994481b2759866ab"/>
-
+		<script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
 	</head>
 	<body class="is-preload">
 
@@ -148,8 +148,13 @@
 			</section>
 				<!-- Begin Mailchimp Signup Form -->
 
-
-
+		<!-- Cokies ad -->
+		<div id="cajacookies">
+			<p><button onclick="aceptarCookies()" class="pull-right"><i class="fa fa-times"></i> Aceptar y cerrar éste mensaje</button>
+			Éste sitio web usa cookies, si permanece aquí acepta su uso.
+			Puede leer más sobre el uso de cookies en nuestra <a href="politica.html">política de privacidad</a>.
+			</p>
+			</div>
 
 
 		<!-- Footer -->
@@ -181,6 +186,26 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
+			<script>
+				/* ésto comprueba la localStorage si ya tiene la variable guardada */
+				function compruebaAceptaCookies() {
+				  if(localStorage.aceptaCookies == 'true'){
+					cajacookies.style.display = 'none';
+				  }
+				}
+				
+				/* aquí guardamos la variable de que se ha
+				aceptado el uso de cookies así no mostraremos
+				el mensaje de nuevo */
+				function aceptarCookies() {
+				  localStorage.aceptaCookies = 'true';
+				  cajacookies.style.display = 'none';
+				}
+				
+				/* ésto se ejecuta cuando la web está cargada */
+				$(document).ready(function () {
+				  compruebaAceptaCookies();
+				});
+				</script>
 	</body>
 </html>
