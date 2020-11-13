@@ -2345,7 +2345,7 @@ input, select, textarea {
 		margin-left: 0px;
 		margin-right: 0px;
 		margin-top: 10px;
-		position: top;
+		position: absolute;
 		top: 0px;
 		width: 100%;
 	  }
