@@ -2342,11 +2342,11 @@ input, select, textarea {
 		background-color: white;
 		color: black;
 		padding: 10px;
-		margin-left: 35px;
-		margin-right: 35px;
-		margin-top: 55px;
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-top: 10px;
 		position: top;
-		top: 40px;
+		top: 0px;
 		width: 100%;
 	  }
 	  
