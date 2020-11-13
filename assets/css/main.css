@@ -2334,6 +2334,10 @@ input, select, textarea {
 		    }
 		}
 	/* Cookies */
+	
+	.cc-window.cc-static {
+		position: fixed;
+	}
 	#cajacookies {
 		background-color: white;
 		color: black;
