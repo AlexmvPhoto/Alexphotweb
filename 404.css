@@ -117,6 +117,7 @@ input, select, textarea {
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
+		font-display: swap;
 		color: #39454b;
 		letter-spacing: 0.025em;
 	}
@@ -368,6 +369,7 @@ button {
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 400;
+			font-display: swap;
 		}
 
 		.icon:before {
