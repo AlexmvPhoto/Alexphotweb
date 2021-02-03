@@ -4093,7 +4093,7 @@ input, select, textarea {
 
 	.features article {
 		padding: 1.75em 1.75em 0.1em 1.75em ;
-		background-color: #353849;
+		background-color: #ff6262;
 		border-radius: 5px;
 		margin: 1.5em 3em 1.5em 0;
 		width: calc(50% - 1.5em);
@@ -4247,7 +4247,7 @@ input, select, textarea {
 		#banner {
 			padding: 7em 0 8.25em 0 ;
 			background-color: #ffffff;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
+			
 			background-size: auto,
 cover;
 			background-position: center,
