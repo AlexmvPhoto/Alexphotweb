@@ -48,11 +48,14 @@
 
 
 		<!-- Mail -->
-			<section id="work" class="main style3 primary">
-				<div class="content">
-					<iframe src="https://www.mail.yandex.com/" style="border: 0; width: 100%; height: 100%">Your browser doesn't support iFrames.</iframe>
-				</div>
-			</section>
+		<div id='map' style='width: 400px; height: 300px;'></div>
+		<script>
+		mapboxgl.accessToken = 'pk.eyJ1IjoiYWxleG12MjM1IiwiYSI6ImNrb3VtY3BueTAxczYyd3FjYWN6N256eHYifQ.Yu3YGDR-s4tTTjywlgQfmw';
+		var map = new mapboxgl.Map({
+		container: 'map',
+		style: 'mapbox://styles/mapbox/streets-v11'
+		});
+		</script>
 
 
 		<!-- Footer -->
