@@ -1,51 +1,34 @@
 {
-    "array": [
-        {
-            "idServicios": "1",
-            "servicio": "parqueo"
-        },
-        {
-            "idServicios": "2",
-            "servicio": "camping"
-        },
-        {
-            "idServicios": "3",
-            "servicio": "duchas"
-        },
-        {
-            "idServicios": "4",
-            "servicio": "servicios\nsanitarios"
-        },
-        {
-            "idServicios": "5",
-            "servicio": "salva\nvidas"
-        }
-    ],
     "playasarray": [
         {
-            "nombre": "Playa\nUvita",
+            "nombre": "Playa Uvita",
             "img": "https://mytourcr.com/assets/Uvita_pre.webp",
-            "ubic": "Osa,Puntarenas"
+            "ubic": "Osa, Puntarenas"
         },
         {
-            "nombre": "Playa\nJacó",
+            "nombre": "Playa Jac\u00f3",
             "img": "https://mytourcr.com/assets/Jaco_pre.webp",
-            "ubic": "Garabito,Puntarenas"
+            "ubic": "Garabito, Puntarenas"
         },
         {
-            "nombre": "1",
-            "img": "parqueo",
-            "ubic": "1"
+            "nombre": "Playa Esterillos",
+            "img": "https://mytourcr.com/assets/esterillos_pre.webp",
+            "ubic": "Parrita, Puntarenas"
         },
         {
-            "nombre": "1",
-            "img": "parqueo",
-            "ubic": "1"
+            "nombre": "Playa Conchal",
+            "img": "https://mytourcr.com/assets/Conchal_pre.webp",
+            "ubic": "Santa Cruz, Guanacaste"
         },
         {
-            "nombre": "1",
-            "img": "parqueo",
-            "ubic": "1"
+            "nombre": "Playa\nManuel Antonio",
+            "img": "https://mytourcr.com/assets/MnauelAntonio_pre.webp",
+            "ubic": "Santa Cruz, Guanacaste"
+        },
+        {
+            "nombre": "Playa Dominical",
+            "img": "https://mytourcr.com/assets/dominical_pre_1.webp",
+            "ubic": "Osa, Puntarenas"
         }
     ]
 }
