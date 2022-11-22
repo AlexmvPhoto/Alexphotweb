@@ -21,7 +21,7 @@
             "servicio": "salva\nvidas"
         }
     ],
-    "Playas": [
+    "playasarray": [
         {
             "nombre": "Playa\nUvita",
             "img": "https://mytourcr.com/assets/Uvita_pre.webp",
