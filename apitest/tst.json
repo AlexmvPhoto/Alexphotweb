@@ -18,29 +18,29 @@
             "nombre": "Playa Esterillos",
             "img": "https://mytourcr.com/assets/esterillos_pre.webp",
             "ubic": "Parrita, Puntarenas",
-            "lat":1,
-            "long":1
+            "lat":1.0,
+            "long":1.0
         },
         {
             "nombre": "Playa Conchal",
             "img": "https://mytourcr.com/assets/Conchal_pre.webp",
             "ubic": "Santa Cruz, Guanacaste",
-            "lat":1,
-            "long":1
+            "lat":1.0,
+            "long":1.0
         },
         {
             "nombre": "Playa\nManuel Antonio",
             "img": "https://mytourcr.com/assets/MnauelAntonio_pre.webp",
             "ubic": "Santa Cruz, Guanacaste",
-            "lat":1,
-            "long":1
+            "lat":1.0,
+            "long":1.0
         },
         {
             "nombre": "Playa Dominical",
             "img": "https://mytourcr.com/assets/dominical_pre_1.webp",
             "ubic": "Osa, Puntarenas",
-            "lat":1,
-            "long":1
+            "lat":1.0,
+            "long":1.0
         }
     ]
 }
