@@ -1,25 +1,51 @@
 {
     "array": [
-      {
-        "idServicios": "1",
-        "servicio": "parqueo"
-      },
-      {
-        "idServicios": "2",
-        "servicio": "camping"
-      },
-      {
-        "idServicios": "3",
-        "servicio": "duchas"
-      },
-      {
-        "idServicios": "4",
-        "servicio": "servicios\nsanitarios"
-      },
-      {
-        "idServicios": "5",
-        "servicio": "salva vidas"
-      }
+        {
+            "idServicios": "1",
+            "servicio": "parqueo"
+        },
+        {
+            "idServicios": "2",
+            "servicio": "camping"
+        },
+        {
+            "idServicios": "3",
+            "servicio": "duchas"
+        },
+        {
+            "idServicios": "4",
+            "servicio": "servicios\nsanitarios"
+        },
+        {
+            "idServicios": "5",
+            "servicio": "salva\nvidas"
+        }
     ],
-    "length": 4
-  }
+    "Playas": [
+        {
+            "nombre": "Playa\nUvita",
+            "img": "https://mytourcr.com/assets/Uvita_pre.webp",
+            "ubic": "Osa,Puntarenas"
+        },
+        {
+            "nombre": "Playa\nJacó",
+            "img": "https://mytourcr.com/assets/Jaco_pre.webp",
+            "ubic": "Garabito,Puntarenas"
+        },
+        {
+            "nombre": "1",
+            "img": "parqueo",
+            "ubic": "1"
+        },
+        {
+            "nombre": "1",
+            "img": "parqueo",
+            "ubic": "1"
+        },
+        {
+            "nombre": "1",
+            "img": "parqueo",
+            "ubic": "1"
+        }
+    ]
+}
