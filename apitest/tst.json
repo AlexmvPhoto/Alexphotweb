@@ -1,18 +1,25 @@
 {
-	"array": [{
-		"idServicios": "1",
-		"servicio": "parqueo"
-	}, {
-		"idServicios": "2",
-		"servicio": "camping"
-	}, {
-		"idServicios": "3",
-		"servicio": "duchas"
-	}, {
-		"idServicios": "4",
-		"servicio": "servicios_sanitarios"
-	}, {
-		"idServicios": "5",
-		"servicio": "salva_vidas"
-	}]
-}
+    "array": [
+      {
+        "idServicios": "1",
+        "servicio": "parqueo"
+      },
+      {
+        "idServicios": "2",
+        "servicio": "camping"
+      },
+      {
+        "idServicios": "3",
+        "servicio": "duchas"
+      },
+      {
+        "idServicios": "4",
+        "servicio": "servicios\nsanitarios"
+      },
+      {
+        "idServicios": "5",
+        "servicio": "salva vidas"
+      }
+    ],
+    "length": 4
+  }
