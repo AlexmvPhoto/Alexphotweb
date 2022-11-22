@@ -3,32 +3,44 @@
         {
             "nombre": "Playa Uvita",
             "img": "https://mytourcr.com/assets/Uvita_pre.webp",
-            "ubic": "Osa, Puntarenas"
+            "ubic": "Osa, Puntarenas",
+            "lat":1,
+            "long":1
         },
         {
             "nombre": "Playa Jac\u00f3",
             "img": "https://mytourcr.com/assets/Jaco_pre.webp",
-            "ubic": "Garabito, Puntarenas"
+            "ubic": "Garabito, Puntarenas",
+            "lat":1,
+            "long":1
         },
         {
             "nombre": "Playa Esterillos",
             "img": "https://mytourcr.com/assets/esterillos_pre.webp",
-            "ubic": "Parrita, Puntarenas"
+            "ubic": "Parrita, Puntarenas",
+            "lat":1,
+            "long":1
         },
         {
             "nombre": "Playa Conchal",
             "img": "https://mytourcr.com/assets/Conchal_pre.webp",
-            "ubic": "Santa Cruz, Guanacaste"
+            "ubic": "Santa Cruz, Guanacaste",
+            "lat":1,
+            "long":1
         },
         {
             "nombre": "Playa\nManuel Antonio",
             "img": "https://mytourcr.com/assets/MnauelAntonio_pre.webp",
-            "ubic": "Santa Cruz, Guanacaste"
+            "ubic": "Santa Cruz, Guanacaste",
+            "lat":1,
+            "long":1
         },
         {
             "nombre": "Playa Dominical",
             "img": "https://mytourcr.com/assets/dominical_pre_1.webp",
-            "ubic": "Osa, Puntarenas"
+            "ubic": "Osa, Puntarenas",
+            "lat":1,
+            "long":1
         }
     ]
 }
