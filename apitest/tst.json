@@ -4,49 +4,55 @@
             "nombre": "Playa Uvita",
             "img": "https://mytourcr.com/assets/Uvita_pre.webp",
             "ubic": "Osa, Puntarenas",
-            "lat":1.0,
-            "long":1.0,
-            "map":"https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+555555(-83.7549,9.1543)/-83.7536,9.1594,11.95,0/300x200?before_layer=hillshade&access_token=pk.eyJ1IjoiYWxleG12MjM1IiwiYSI6ImNrb3VtY3BueTAxczYyd3FjYWN6N256eHYifQ.Yu3YGDR-s4tTTjywlgQfmw"
+            "lat":9.174676886353359,
+            "long":-83.7349610058046,
+            "map":"https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+555555(-83.7549,9.1543)/-83.7536,9.1594,11.95,0/300x200?before_layer=hillshade&access_token=pk.eyJ1IjoiYWxleG12MjM1IiwiYSI6ImNrb3VtY3BueTAxczYyd3FjYWN6N256eHYifQ.Yu3YGDR-s4tTTjywlgQfmw",
+            "gmap":"https://goo.gl/maps/1WDEVbCErenGJt4w9"
         },
         {
             "nombre": "Playa Jac\u00f3",
             "img": "https://mytourcr.com/assets/Jaco_pre.webp",
             "ubic": "Garabito, Puntarenas",
-            "lat":1.0,
-            "long":1.0,
-            "map":"https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+555555(-83.7549,9.1543)/-83.7536,9.1594,11.95,0/300x200?before_layer=hillshade&access_token=pk.eyJ1IjoiYWxleG12MjM1IiwiYSI6ImNrb3VtY3BueTAxczYyd3FjYWN6N256eHYifQ.Yu3YGDR-s4tTTjywlgQfmw"
+            "lat":9.620145422140622, 
+            "long":-84.62150745351038,
+            "map":"https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+555555(-84.6293,9.612)/-84.6282,9.6137,13.08,0/300x200?before_layer=airport-label&access_token=pk.eyJ1IjoiYWxleG12MjM1IiwiYSI6ImNrb3VtY3BueTAxczYyd3FjYWN6N256eHYifQ.Yu3YGDR-s4tTTjywlgQfmw",
+            "gmap":"https://goo.gl/maps/1EcJbx8HfFdgEjmn8"
         },
         {
             "nombre": "Playa Esterillos",
             "img": "https://mytourcr.com/assets/esterillos_pre.webp",
             "ubic": "Parrita, Puntarenas",
-            "lat":1.0,
-            "long":1.0,
-            "map":"https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+555555(-83.7549,9.1543)/-83.7536,9.1594,11.95,0/300x200?before_layer=hillshade&access_token=pk.eyJ1IjoiYWxleG12MjM1IiwiYSI6ImNrb3VtY3BueTAxczYyd3FjYWN6N256eHYifQ.Yu3YGDR-s4tTTjywlgQfmw"
+            "lat":9.530857522936264,
+            "long":-84.47936735246732,
+            "map":"https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+555555(-84.4926,9.5291)/-84.496,9.5307,13.27,0/300x200?before_layer=airport-label&access_token=pk.eyJ1IjoiYWxleG12MjM1IiwiYSI6ImNrb3VtY3BueTAxczYyd3FjYWN6N256eHYifQ.Yu3YGDR-s4tTTjywlgQfmw",
+            "gmap":"https://goo.gl/maps/Bmkum9VFjABNM8HCA"
         },
         {
             "nombre": "Playa Conchal",
             "img": "https://mytourcr.com/assets/Conchal_pre.webp",
             "ubic": "Santa Cruz, Guanacaste",
-            "lat":1.0,
-            "long":1.0,
-            "map":"https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+555555(-83.7549,9.1543)/-83.7536,9.1594,11.95,0/300x200?before_layer=hillshade&access_token=pk.eyJ1IjoiYWxleG12MjM1IiwiYSI6ImNrb3VtY3BueTAxczYyd3FjYWN6N256eHYifQ.Yu3YGDR-s4tTTjywlgQfmw"
+            "lat":10.400040805507706,
+            "long":-85.81166478128776,
+            "map":"https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+555555(-85.8052,10.4017)/-85.8013,10.4032,14.06,0/300x200?before_layer=airport-label&access_token=pk.eyJ1IjoiYWxleG12MjM1IiwiYSI6ImNrb3VtY3BueTAxczYyd3FjYWN6N256eHYifQ.Yu3YGDR-s4tTTjywlgQfmw",
+            "gmap":"https://goo.gl/maps/YtA7FY1TF3oy7Utg9"
         },
         {
             "nombre": "Playa\nManuel Antonio",
             "img": "https://mytourcr.com/assets/MnauelAntonio_pre.webp",
             "ubic": "Santa Cruz, Guanacaste",
-            "lat":1.0,
-            "long":1.0,
-            "map":"https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+555555(-83.7549,9.1543)/-83.7536,9.1594,11.95,0/300x200?before_layer=hillshade&access_token=pk.eyJ1IjoiYWxleG12MjM1IiwiYSI6ImNrb3VtY3BueTAxczYyd3FjYWN6N256eHYifQ.Yu3YGDR-s4tTTjywlgQfmw"
+            "lat":9.381998615966042,
+            "long":-84.14508484795385,
+            "map":"https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+555555(-84.1455,9.381)/-84.1412,9.3833,13.58,0/300x200?before_layer=airport-label&access_token=pk.eyJ1IjoiYWxleG12MjM1IiwiYSI6ImNrb3VtY3BueTAxczYyd3FjYWN6N256eHYifQ.Yu3YGDR-s4tTTjywlgQfmw",
+            "gmap":"https://goo.gl/maps/SZEXukGdg3ASAGPF8"
         },
         {
             "nombre": "Playa Dominical",
             "img": "https://mytourcr.com/assets/dominical_pre_1.webp",
             "ubic": "Osa, Puntarenas",
-            "lat":1.0,
-            "long":1.0,
-            "map":"https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+555555(-83.7549,9.1543)/-83.7536,9.1594,11.95,0/300x200?before_layer=hillshade&access_token=pk.eyJ1IjoiYWxleG12MjM1IiwiYSI6ImNrb3VtY3BueTAxczYyd3FjYWN6N256eHYifQ.Yu3YGDR-s4tTTjywlgQfmw"
+            "lat":9.252474905787416,
+            "long":-83.8591148475011,
+            "map":"https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-s+555555(-83.8649,9.2516)/-83.8617,9.256,13.53,0/300x200?before_layer=airport-label&access_token=pk.eyJ1IjoiYWxleG12MjM1IiwiYSI6ImNrb3VtY3BueTAxczYyd3FjYWN6N256eHYifQ.Yu3YGDR-s4tTTjywlgQfmw",
+            "gmap":"https://goo.gl/maps/mXUgzmpQ4YM8vRBw5"
         }
     ]
 }
